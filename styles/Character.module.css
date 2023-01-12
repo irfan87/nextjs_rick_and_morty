@@ -1,0 +1,23 @@
+.container {
+	background-color: red;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 20px;
+	margin: 0 320px;
+	border-radius: 10px;
+	box-shadow: 13px 13px grey;
+
+	width: 220px;
+
+	box-sizing: content-box;
+	text-align: center;
+
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.img {
+	margin: 10px;
+	border-radius: 100px;
+}
